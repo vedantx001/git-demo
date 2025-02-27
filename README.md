@@ -1,5 +1,5 @@
 # git-demo
-This is a git class demo
+This is a git class demo.
 
 
 # Teacher
